@@ -1,0 +1,97 @@
+# Blender MTL File: 'None'
+# Material Count: 8
+newmtl Grass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.739115 0.739115 0.739115
+Ks 0.013274 0.013274 0.013274
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Plan.png
+map_Dump PlanNorm.png
+
+
+newmtl House
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.215596 0.215596 0.215596
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TownHouseDiff.png
+map_Dump TownHouseNormal.png
+
+
+newmtl House_TownHouseDiffPink.png
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.215596 0.215596 0.215596
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TownHouseDiffPink.png
+map_Dump TownHouseNormal.png
+
+
+newmtl House_TownHouseDiffRed.png
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.215596 0.215596 0.215596
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TownHouseDiffRed.png
+map_Dump TownHouseNormal.png
+
+
+newmtl Material.001
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.400524 0.400524 0.400524
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TowerUV.png
+map_Dump TowerUVNorm.png
+
+
+newmtl Material.003
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 0.344037 0.344037 0.344037
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd MallDiff.png
+map_Dump MallNorm.png
+
+
+newmtl Sky
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.457697 0.457697 0.457697
+Ks 0.681818 0.681818 0.681818
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Skybox_sky.png
+map_Dump Skybox_skyNorm.png
+
+
+newmtl Tree
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd TreeDiff.png
+map_Dump TreeNorm.png
+
